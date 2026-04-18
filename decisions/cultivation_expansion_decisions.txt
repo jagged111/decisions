@@ -185,7 +185,7 @@ claim_superior_realm_liege_title_decision = {
 }
 
 awaken_meridian_disciples_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_misc.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_study_culture.dds" }
     sort_order = 350
     decision_group_type = major
 
@@ -236,7 +236,7 @@ awaken_meridian_disciples_decision = {
 }
 
 cleanse_remnant_sects_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_misc.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_targeted_imprisonment.dds" }
     sort_order = 352
     decision_group_type = major
 
