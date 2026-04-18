@@ -1,5 +1,5 @@
-sect_examination_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_hold_court.dds" }
+﻿sect_examination_decision = {
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_realm.dds" }
     decision_group_type = major
     sort_order = 601
 
@@ -40,7 +40,7 @@ sect_examination_decision = {
 }
 
 elder_promotion_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_grant_titles.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_realm.dds" }
     decision_group_type = major
     sort_order = 602
 
@@ -92,7 +92,7 @@ elder_promotion_decision = {
 }
 
 inner_court_promotion_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_hold_court.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_realm.dds" }
     decision_group_type = major
     sort_order = 603
 
@@ -143,7 +143,7 @@ inner_court_promotion_decision = {
 }
 
 ks_cultivation_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_study_culture.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_culture.dds" }
     decision_group_type = major
     sort_order = 604
 
@@ -177,7 +177,7 @@ ks_cultivation_decision = {
 }
 
 reincarnator_lottery_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_become_chakravarti.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_destiny_goal.dds" }
     decision_group_type = major
     sort_order = 605
 

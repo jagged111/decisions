@@ -1,6 +1,6 @@
 ﻿iti_find_thugs_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/iti_decision_tavern.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_activity.dds"
 	}
 	
 	desc = iti_find_thugs_decision_desc
