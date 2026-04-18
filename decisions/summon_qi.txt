@@ -13,7 +13,7 @@
 # THOUSAND QI NEEDLES
 ############################
 summon_thousand_qi_needles_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_call_hunt_2.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_activity.dds" }
     decision_group_type = major
     title = summon_thousand_qi_needles_decision
     desc = summon_thousand_qi_needles_decision_desc
@@ -62,7 +62,7 @@ summon_thousand_qi_needles_decision = {
 # NINE HEAVENS SWORD INTENT
 ############################
 summon_nine_heavens_sword_intent_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_martial_lifestyle.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_realm.dds" }
     decision_group_type = major
     title = summon_nine_heavens_sword_intent_decision
     desc = summon_nine_heavens_sword_intent_decision_desc
@@ -111,7 +111,7 @@ summon_nine_heavens_sword_intent_decision = {
 # GOLDEN CORE FLAME LOTUS
 ############################
 summon_golden_core_flame_lotus_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_dose_self.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_spend_money.dds" }
     decision_group_type = major
     title = summon_golden_core_flame_lotus_decision
     desc = summon_golden_core_flame_lotus_decision_desc
@@ -160,7 +160,7 @@ summon_golden_core_flame_lotus_decision = {
 # NASCENT SOUL PHANTOM
 ############################
 summon_nascent_soul_phantom_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_mystic_communion.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_personal_religious.dds" }
     decision_group_type = major
     title = summon_nascent_soul_phantom_decision
     desc = summon_nascent_soul_phantom_decision_desc
@@ -209,7 +209,7 @@ summon_nascent_soul_phantom_decision = {
 # HEAVEN SEVERING BLADE
 ############################
 summon_heaven_severing_blade_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_martial_lifestyle.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_realm.dds" }
     decision_group_type = major
     title = summon_heaven_severing_blade_decision
     desc = summon_heaven_severing_blade_decision_desc
@@ -258,7 +258,7 @@ summon_heaven_severing_blade_decision = {
 # MYRIAD DAO SUPPRESSION DOMAIN
 ############################
 summon_myriad_dao_suppression_domain_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_found_holy_order.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds" }
     decision_group_type = major
     title = summon_myriad_dao_suppression_domain_decision
     desc = summon_myriad_dao_suppression_domain_decision_desc
@@ -307,7 +307,7 @@ summon_myriad_dao_suppression_domain_decision = {
 # HEAVENLY TRIBULATION DESCENT (True Immortal)
 ############################
 summon_heavenly_tribulation_descent_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_become_chakravarti.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_destiny_goal.dds" }
     decision_group_type = major
     title = summon_heavenly_tribulation_descent_decision
     desc = summon_heavenly_tribulation_descent_decision_desc

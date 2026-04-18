@@ -1,5 +1,5 @@
-found_sect_domain_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_found_holy_order.dds" }
+﻿found_sect_domain_decision = {
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds" }
     decision_group_type = major
     sort_order = 521
 
@@ -38,7 +38,7 @@ found_sect_domain_decision = {
 }
 
 refine_spirit_pill_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_dose_self.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_spend_money.dds" }
     decision_group_type = major
     sort_order = 522
 
@@ -67,7 +67,7 @@ refine_spirit_pill_decision = {
 }
 
 comprehend_martial_manual_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_write_diplomatic_treatise.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_tale.dds" }
     decision_group_type = major
     sort_order = 523
 
@@ -95,7 +95,7 @@ comprehend_martial_manual_decision = {
 }
 
 enter_secret_realm_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_search_for_secrets.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_tale.dds" }
     decision_group_type = major
     sort_order = 524
 
@@ -119,7 +119,7 @@ enter_secret_realm_decision = {
 }
 
 undergo_heavenly_tribulation_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_become_chakravarti.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_destiny_goal.dds" }
     decision_group_type = major
     sort_order = 525
 
@@ -156,7 +156,7 @@ undergo_heavenly_tribulation_decision = {
 }
 
 xianxia_debug_state_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_study_culture.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_culture.dds" }
     decision_group_type = major
     sort_order = 526
 
@@ -177,7 +177,7 @@ xianxia_debug_state_decision = {
 }
 
 embrace_fox_spirit_predation_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_torture_prisoner.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_prison.dds" }
     decision_group_type = major
     sort_order = 529
 
@@ -209,7 +209,7 @@ embrace_fox_spirit_predation_decision = {
 }
 
 hunt_mortals_fox_spirit_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_hunt_animal.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_activity.dds" }
     decision_group_type = major
     sort_order = 530
 
@@ -240,7 +240,7 @@ hunt_mortals_fox_spirit_decision = {
 
 
 sell_spirit_pill_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_ask_for_gold.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_spend_money.dds" }
     decision_group_type = major
     sort_order = 529
 
@@ -266,7 +266,7 @@ sell_spirit_pill_decision = {
 }
 
 buy_breakthrough_pill_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_dose_self.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_spend_money.dds" }
     decision_group_type = major
     sort_order = 530
 
@@ -308,7 +308,7 @@ buy_breakthrough_pill_decision = {
 
 
 raise_formation_barriers_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_prepare_for_war.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_realm.dds" }
     decision_group_type = major
     sort_order = 531
 
@@ -362,7 +362,7 @@ raise_formation_barriers_decision = {
 
 
 declare_heavenly_demon_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_become_chakravarti.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_destiny_goal.dds" }
     decision_group_type = major
     sort_order = 531
 
@@ -399,7 +399,7 @@ declare_heavenly_demon_decision = {
 
 
 proclaim_great_sect_hegemon_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_found_holy_order.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds" }
     decision_group_type = major
     sort_order = 532
 
@@ -433,7 +433,7 @@ proclaim_great_sect_hegemon_decision = {
 }
 
 found_martial_confederation_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_hold_court.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_realm.dds" }
     decision_group_type = major
     sort_order = 533
 
@@ -481,7 +481,7 @@ found_martial_confederation_decision = {
 
 
 proclaim_orthodox_alliance_leader_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_hold_court.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_realm.dds" }
     decision_group_type = major
     sort_order = 534
 
@@ -528,7 +528,7 @@ proclaim_orthodox_alliance_leader_decision = {
 }
 
 proclaim_demonic_alliance_leader_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_torture_prisoner.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_prison.dds" }
     decision_group_type = major
     sort_order = 535
 
@@ -576,7 +576,7 @@ proclaim_demonic_alliance_leader_decision = {
 }
 
 proclaim_unorthodox_alliance_leader_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_torture_prisoner.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_prison.dds" }
     decision_group_type = major
     sort_order = 536
 
@@ -623,7 +623,7 @@ proclaim_unorthodox_alliance_leader_decision = {
 }
 
 convene_martial_alliance_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_grant_vassal.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_realm.dds" }
     decision_group_type = major
     sort_order = 536
 
@@ -658,7 +658,7 @@ convene_martial_alliance_decision = {
 }
 
 establish_heavenly_mandate_bureau_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_become_chakravarti.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_destiny_goal.dds" }
     decision_group_type = major
     sort_order = 537
 
@@ -710,7 +710,7 @@ establish_heavenly_mandate_bureau_decision = {
 }
 
 craft_magic_treasure_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_write_diplomatic_treatise.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_tale.dds" }
     decision_group_type = major
     sort_order = 531
 
@@ -747,7 +747,7 @@ craft_magic_treasure_decision = {
 }
 
 seek_legendary_world_artifact_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_search_for_secrets.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_tale.dds" }
     decision_group_type = major
     sort_order = 532
 
@@ -787,7 +787,7 @@ seek_legendary_world_artifact_decision = {
 }
 
 refine_grand_spirit_pills_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_dose_self.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_spend_money.dds" }
     decision_group_type = major
     sort_order = 533
 
@@ -822,7 +822,7 @@ refine_grand_spirit_pills_decision = {
 }
 
 host_jianghu_artifact_auction_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_hold_court.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_realm.dds" }
     decision_group_type = major
     sort_order = 534
 
@@ -842,7 +842,7 @@ host_jianghu_artifact_auction_decision = {
 }
 
 study_magic_treasure_crafting_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_study_culture.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_culture.dds" }
     decision_group_type = major
     sort_order = 535
 
@@ -873,7 +873,7 @@ study_magic_treasure_crafting_decision = {
 }
 
 challenge_sect_leader_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_duel.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_knight_kneeling.dds" }
     decision_group_type = major
     sort_order = 541
 
@@ -942,7 +942,7 @@ challenge_sect_leader_decision = {
 }
 
 purge_dissenting_elders_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_targeted_imprisonment.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_prison.dds" }
     decision_group_type = major
     sort_order = 542
 
@@ -1012,7 +1012,7 @@ purge_dissenting_elders_decision = {
 }
 
 consecrate_sacred_mountain_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_hold_festival.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_activity.dds" }
     decision_group_type = major
     sort_order = 543
 
@@ -1065,7 +1065,7 @@ consecrate_sacred_mountain_decision = {
 }
 
 establish_sect_branch_hall_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_found_holy_order.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds" }
     decision_group_type = major
     sort_order = 544
 
@@ -1122,7 +1122,7 @@ establish_sect_branch_hall_decision = {
 }
 
 corrupt_spirit_vein_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_dark_insights.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_misc.dds" }
     decision_group_type = major
     sort_order = 545
 
@@ -1176,7 +1176,7 @@ corrupt_spirit_vein_decision = {
 }
 
 enforce_high_realm_submission_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_control_kingdom.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_realm.dds" }
     decision_group_type = major
     sort_order = 546
 
@@ -1255,7 +1255,7 @@ enforce_high_realm_submission_decision = {
 }
 
 view_xianxia_state_status_decision = {
-    picture = { reference = "gfx/interface/illustrations/decisions/decision_study_culture.dds" }
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_culture.dds" }
     decision_group_type = major
     sort_order = 547
 

@@ -5,7 +5,7 @@
 # Qi Gathering Breakthrough
 attempt_qi_gathering_breakthrough_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/decision_realm_martial.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_realm.dds"
 	}
 	
 	decision_group_type = major
@@ -67,7 +67,7 @@ attempt_qi_gathering_breakthrough_decision = {
 # Qi Refining Breakthrough
 attempt_qi_refining_breakthrough_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/decision_realm_martial.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_realm.dds"
 	}
 	
 	decision_group_type = major
@@ -129,7 +129,7 @@ attempt_qi_refining_breakthrough_decision = {
 # Qi Building Breakthrough
 attempt_qi_building_breakthrough_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/decision_realm_martial.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_realm.dds"
 	}
 	
 	decision_group_type = major
@@ -191,7 +191,7 @@ attempt_qi_building_breakthrough_decision = {
 # Core Formation Breakthrough
 attempt_core_formation_breakthrough_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/decision_realm_martial.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_realm.dds"
 	}
 	
 	decision_group_type = major
@@ -253,7 +253,7 @@ attempt_core_formation_breakthrough_decision = {
 # Nascent Soul Breakthrough
 attempt_nascent_soul_breakthrough_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/decision_realm_martial.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_realm.dds"
 	}
 	
 	decision_group_type = major
@@ -315,7 +315,7 @@ attempt_nascent_soul_breakthrough_decision = {
 # Heavenly Being Breakthrough
 attempt_heavenly_being_breakthrough_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/decision_realm_martial.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_realm.dds"
 	}
 	
 	decision_group_type = major
@@ -377,7 +377,7 @@ attempt_heavenly_being_breakthrough_decision = {
 # Four-Axis Breakthrough
 attempt_four_axis_breakthrough_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/decision_realm_martial.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_realm.dds"
 	}
 	
 	decision_group_type = major
@@ -439,7 +439,7 @@ attempt_four_axis_breakthrough_decision = {
 # Integration Breakthrough
 attempt_integration_breakthrough_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/decision_realm_martial.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_realm.dds"
 	}
 	
 	decision_group_type = major
@@ -501,7 +501,7 @@ attempt_integration_breakthrough_decision = {
 # Star Shattering Breakthrough
 attempt_star_shattering_breakthrough_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/decision_realm_martial.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_realm.dds"
 	}
 	
 	decision_group_type = major
@@ -563,7 +563,7 @@ attempt_star_shattering_breakthrough_decision = {
 # Sacred Vessel Breakthrough
 attempt_sacred_vessel_breakthrough_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/decision_realm_martial.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_realm.dds"
 	}
 	
 	decision_group_type = major
@@ -625,7 +625,7 @@ attempt_sacred_vessel_breakthrough_decision = {
 # Entering Nirvana Breakthrough
 attempt_entering_nirvana_breakthrough_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/decision_realm_martial.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_realm.dds"
 	}
 	
 	decision_group_type = major
@@ -686,7 +686,7 @@ attempt_entering_nirvana_breakthrough_decision = {
 # True Immortal Breakthrough
 attempt_true_immortal_breakthrough_decision = {
 	picture = {
-		reference = "gfx/interface/illustrations/decisions/decision_realm_martial.dds"
+		reference = "gfx/interface/illustrations/decisions/decision_realm.dds"
 	}
 	
 	decision_group_type = major
